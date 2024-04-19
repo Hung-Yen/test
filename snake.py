@@ -16,7 +16,7 @@ red = (255, 0, 0)
 
 # 定義貪吃蛇和食物
 snake_block = 10
-snake_speed = 15
+snake_speed = 8
 font_style = pygame.font.SysFont(None, 50)
 
 # 定義貪吃蛇初始位置
